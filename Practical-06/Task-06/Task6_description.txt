@@ -1,0 +1,8 @@
+This is the output of the Task 6 program.
+
+Hello
+0x7ffff0178bf0
+Jello
+0x7ffff0178bf0
+
+The replacement of H with J in the output clearly shows that string is mutable in cpp.
